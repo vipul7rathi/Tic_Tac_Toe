@@ -1,0 +1,59 @@
+body {
+		background: url('http://www.pptbackgrounds.org/uploads/tic-tac-toe-backgrounds-wallpapers.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;	
+		background-attachment:fixed;
+ 	 }
+button {
+		text-align:center;
+	  height:30px;
+	  font-size:20px;
+	  background-color:#002366;
+	  color:white;
+	  border:3px solid white;
+		}	
+button:hover
+{
+	text-decoration:none;
+}
+
+#superbox {
+			width:330px; 
+			height:300px;
+			margin-left: 39%;
+ 		  }
+			
+.box {
+		float:left; 
+		height:100px;
+		width:100px; 
+		font-size:90px; 
+		text-align:center;
+		border:5px solid black;
+	 }
+#turn{text-align:center;
+	  max-width:330px;
+	  margin-left:39%;
+	  height:30px;
+	  font-size:20px;
+	  background-color:#002366;
+	  color:white;
+	  }
+
+		
+.box:hover {
+			  background-color:#d8e0ed;
+		   }
+		
+#main {
+		text-align:center;
+	  }
+		
+#head {
+		font-size:4em;
+	  }
+		
+a {
+	color:black;
+  }
+	
